@@ -1,4 +1,4 @@
-# TravelwUs (Past Version)
+# TravelwUs 
 
 A simple travel booking platform built with PHP & MySQL.  
 Users can view travel packages and book them, while admins can manage packages.  
